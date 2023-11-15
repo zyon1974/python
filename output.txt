@@ -1,0 +1,12 @@
+Risultato per il comando "ls":
+domains.txt
+finder1000.py
+mouser2.py
+mouser.py
+output.txt
+position.py
+read-run.py
+read-url-and-run.py
+ssh-finder.py
+
+
